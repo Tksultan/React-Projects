@@ -8,7 +8,7 @@ function Card({username = 'User Name', post="not assigend"}) {
           <div className="pt-6 text-center space-y-4">
             <blockquote>
               <p className="text-lg font-medium">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga magnam eum ipsam qui voluptatum. Minima, ullam voluptatem tempora fugiat veritatis rerum aspernatur suscipit? Quo odio nesciunt ipsam corporis commodi hic.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, ullam!
               </p>
             </blockquote>
             <figcaption className="font-medium">
